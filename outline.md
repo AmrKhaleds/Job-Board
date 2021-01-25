@@ -31,3 +31,10 @@ home
 
 
 login 
+
+
+
+Relations : 
+    - One To Many [ USER - POSTS ]  Foreginkey
+    - Many To Many [ User - Groups ]
+    - One To One [ User - Profile ]
